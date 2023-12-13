@@ -39,8 +39,6 @@ In chat:
 
 `/restart` - Prompts you to confirm or deny. If you confirm, it will perform a quick restart and you will lose everything within the ship. Only the **host** can initiate this command.
 
-## Menu Modification(s):
-
 ## Gameplay Modification(s)s:
 
 -   A new HUD is replaced. This is client side and you may disable the HUD if you do not like it.
@@ -104,9 +102,23 @@ MirrorDecor
 SkibidiBoombox
 SellTracker
 PushCompany
+LCSoundTool
+LethalLib
 ```
 
 ## Changelog
+
+### v1.0.3:
+
+-   Updated CompatibilityChecker to v1.0.5
+-   Added LethalCompany_InputUtils
+-   Updated README
+
+### v1.0.2
+
+-   Added LethalLib
+-   Added LCSoundTool
+-   Updated CompatibilityChecker to version v1.0.3
 
 ### v1.0.1
 
