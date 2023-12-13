@@ -105,3 +105,13 @@ SkibidiBoombox
 SellTracker
 PushCompany
 ```
+
+## Changelog
+
+### v1.0.1
+
+-   Fixed README
+
+### v1.0.0:
+
+-   Initial Release
