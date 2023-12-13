@@ -4,6 +4,8 @@
 
 -   Please read through the entire modpack info to get the most up-to-date information. If there are any breaking changes when updating the modpack, then it will be posted here.
 
+-   DO NOT update any mods. This modpack will update the mods as needed. Only update this modpack and not any other mods.
+
 ## Modpack Details:
 
 This modpack is mainly a quality of life modpack. I looked through a lot of mods and tried to choose stable and reliable mods to ensure everyone doesn't have any issues.
