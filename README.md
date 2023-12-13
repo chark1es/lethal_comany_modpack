@@ -17,11 +17,17 @@ You can install this modpack manually through the github. If you're using the mo
 This modpack has mods that these keybinds:
 
 `e` - Push players around
+
 `f` - Toggle flashlight if the flashlight is in your inventory
+
 `r` - Hold to talk when a walkie talkie is in your inventory
+
 `3` - Middle finger emote
+
 `4` - Clap emote
+
 `5` - Shy emote
+
 `6` - The Griddy
 
 For the terminal:
