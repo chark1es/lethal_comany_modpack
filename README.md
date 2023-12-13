@@ -10,6 +10,8 @@
 
 This modpack is mainly a quality of life modpack. I looked through a lot of mods and tried to choose stable and reliable mods to ensure everyone doesn't have any issues.
 
+You can install this modpack manually through the github. If you're using the mod manager, than just install this modpack through thunderstore.
+
 ## New Keybind(s):
 
 This modpack has mods that these keybinds:
