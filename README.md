@@ -10,8 +10,6 @@
 
 This modpack is mainly a quality of life modpack. I looked through a lot of mods and tried to choose stable and reliable mods to ensure everyone doesn't have any issues.
 
-You can install this modpack manually through the github. If you're using the mod manager, than just install this modpack through thunderstore.
-
 ## New Keybind(s):
 
 This modpack has mods that these keybinds:
@@ -30,6 +28,14 @@ This modpack has mods that these keybinds:
 
 `6` - The Griddy
 
+`7` - Salute
+
+`8` - Twerking
+
+`v` - Emote Wheel
+
+`b` - Access boombox menu
+
 For the terminal:
 `right-arrow` & `left arrow` - Switch between players when viewing the monitor in the terminal
 
@@ -38,6 +44,16 @@ For the terminal:
 In chat:
 
 `/restart` - Prompts you to confirm or deny. If you confirm, it will perform a quick restart and you will lose everything within the ship. Only the **host** can initiate this command.
+
+In terminal:
+
+`teleport` - Activates the teleporter
+
+`launch` - pulls the ship lever
+
+`door` - Open / closes the door
+
+`lights` - Togglet the lights in the ship
 
 ## Gameplay Modification(s)s:
 
@@ -68,8 +84,6 @@ In chat:
 
 -   When the game has started, if another player wants to join the game, you must complete your run (aka end the day) and then invite the player. You won't be able to invite the player when the ship has landed on a moon or at the company.
 
--   There's a compatability checker installed to make sure everyone has the same mod version.
-
 -   I added a mod that skips you to the online menu screen when the game boots.
 
 ## List of Mods:
@@ -89,7 +103,6 @@ LethalRebinding
 MouseBind
 EladsHUD
 Coroner
-CompatibilityChecker
 ShipLoot
 LetMeLookDown
 MoreItems
@@ -104,9 +117,56 @@ SellTracker
 PushCompany
 LCSoundTool
 LethalLib
+YoutubeBoombox
+Hold_Scan_Button
+ScanFix
+Neofetch
+Terminal Extras
+WackyCosmetics
+HideModList
 ```
 
 ## Changelog
+
+### v1.1.2
+
+-   Updated AdditionalSuits to 1.1.1
+-   Updated Coroner to 1.4.2
+-   Updated NameplateTweaks to 1.0.3
+-   Updated LCSoundTool to 1.4.0
+-   Updated MirrorDecor to 1.1.6
+
+### v1.1.1
+
+-   Updated QuickRestart to 1.2.0
+-   Updated BetterEmotes to 1.2.2
+
+### v1.1.0
+
+-   Updated LethalLib to 0.6.3
+-   Updated FastSwitchPlayerViewInRadar to 1.3.1
+-   Updated Coroner to 1.3.0
+-   Updated LethalCompany_InputUtils 0.4.2
+-   Added YoutubeBoombox
+-   Added Hold_Scan_Button
+-   Added ScanFix
+-   Added Neofetch
+-   Added Terminal Extras
+-   Added WackyCosmetics
+-   Added HideModList
+
+### v1.0.6:
+
+-   Updated BetterEmotes to v1.2.1
+-   Added a new keybind in the README
+
+### v1.0.5:
+
+-   Updated README
+
+### v1.0.4:
+
+-   Removed CompatabilityChecker
 
 ### v1.0.3:
 
