@@ -128,6 +128,12 @@ HideModList
 
 ## Changelog
 
+### v1.1.3
+
+-   Updated BetterEmotes to 1.2.4
+-   Updated NameplateTweaks to 1.0.4
+-   Updated LethalLib to 0.7.0
+
 ### v1.1.2
 
 -   Updated AdditionalSuits to 1.1.1
